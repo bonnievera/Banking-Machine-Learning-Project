@@ -6,12 +6,12 @@ The goal of this project was to predict whether a loan applicant is likely to de
 
 # Objectives
 
-1. Understand and explore structured banking data
-2. Apply regression techniques to predict loan amounts
-3. Evaluate model performance using statistical metrics
-4. Detect patterns in financial behavior
-5. Compare multiple machine learning models
-6. Build a complete end-to-end ML workflow
+- Understand and explore structured banking data
+- Apply regression techniques to predict loan amounts
+- Evaluate model performance using statistical metrics
+- Detect patterns in financial behavior
+- Compare multiple machine learning models
+- Build a complete end-to-end ML workflow
    
 ## Key Insights & Journey
 This project covers fundamental to intermediate ML topics and part of my learning journey in Data Analytics and Machine Learning through hands-on practice using real world datasets.
@@ -56,16 +56,16 @@ Matplotlib / Seaborn
 Jupyter Notebook
 
 ## Project Workflow
-1. Data Understanding & Exploration
-2. Data Preparation & Feature Engineering
-3. Simple Linear Regression (SLR)
-4. Multiple Linear Regression (MLR)
-5. Model Evaluation (MAE, MSE, RMSE)
-6. Diagnostic Testing (Statsmodels)
-7. Feature Selection & Encoding
-8. Regularization (Ridge & Lasso)
-9. Decision Trees & Ensemble Methods
-10. Model Saving & Deployment
+- Data Understanding & Exploration
+- Data Preparation & Feature Engineering
+- Simple Linear Regression (SLR)
+- Multiple Linear Regression (MLR)
+- Model Evaluation (MAE, MSE, RMSE)
+- Diagnostic Testing (Statsmodels)
+- Feature Selection & Encoding
+- Regularization (Ridge & Lasso)
+- Decision Trees & Ensemble Methods
+- Model Saving & Deployment
 
 # Key Insights
 - Customer financial behavior can be used to predict loan-related outcomes
