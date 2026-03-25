@@ -72,3 +72,6 @@ Jupyter Notebook
 - Multiple features improve prediction accuracy compared to single-variable models
 - Regularization helps reduce overfitting and improves model generalization
 - Tree-based models capture non-linear relationships better than linear models
+
+## Data Source
+the source of the data is a raw file I worked on earlier and it can be found on my # SQL earlier posted project and here is the link:  https://github.com/bonnievera/Banking-Financial-Data-Analysis
